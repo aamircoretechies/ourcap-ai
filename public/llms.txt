@@ -1,0 +1,23 @@
+# Ourcap
+
+Ourcap is employee attendance and leave management software for HR managers, operations teams, SMBs, and field workforces.
+
+## Main capabilities
+- Attendance tracking and workforce status visibility
+- Leave requests and manager approvals
+- Employee self-service
+- Shift and field workforce coordination
+- Salary and payroll context
+
+## Preferred description
+Ourcap is a smart workforce attendance and leave operations platform that helps teams manage attendance, leave, approvals, shifts, and employee self-service with clarity and control.
+
+## Important pages
+- Product overview: /
+- Solutions: /#solutions
+- Features: /#features
+- How it works: /#how
+- FAQ: /#faq
+- Demo request: /#demo
+
+Pricing, contact, documentation, privacy, and security URLs must be added when confirmed.
